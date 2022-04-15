@@ -1,2 +1,2 @@
-# devops_basic_andrejsivanovs
-DevOps pamati
+# DevOps repozitorijs
+Andrejs Ivanovs DevOps repozitorijs pamati iesācējiem
