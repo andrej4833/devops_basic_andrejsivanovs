@@ -36,7 +36,7 @@ Date:   Thu Sep 2 14:47:38 2021 -0400
 
 19) Nav
 
-* Tika izveidots 16.apr, bet atjaunots 20.apr. 
+21) Tika izveidots 16.apr, bet atjaunots 20.apr. 
 
 ```sh
 $ git log --after="2021-4-20" --before="2021-4-21" --reverse --pretty=fuller
