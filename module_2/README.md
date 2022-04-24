@@ -1,8 +1,9 @@
 # Atbildes uz jautājumiem
 
 16)veidi kā atradu izmaiņas 
-git prijektā sadaļā commits (https://github.com/hashicorp/terraform/commits/main)
-rakstot terminālā git log --after="2022-4-17"
+
+- git prijektā sadaļā commits (https://github.com/hashicorp/terraform/commits/main)
+- rakstot terminālā git log --after="2022-4-17"
 
 17)Komitus kurus veic “Laura Pacilio” atrod ar git log --author=“Laura Pacilio”
 
