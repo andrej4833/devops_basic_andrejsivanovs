@@ -1,9 +1,13 @@
 # Atbildes uz jautājumiem
 
 16)1. veids - atradu izmaiņas git prijektā sadaļā commits (https://github.com/hashicorp/terraform/commits/main)
+
 2. veids - rakstot terminālā git log --after="2022-4-17"
+
 17)Komitus kurus veic “Laura Pacilio” atrod ar git log --author=“Laura Pacilio”
+
 18)Kommit kurus "Laura Pacilio" veica pagājušā gada septembrī 
+
 ```sh
 git log --author="Laura Pacilio" --after="2021-9-1" --before="2021-9-31" --reverse
 ```
@@ -17,4 +21,5 @@ Date:   Thu Sep 2 14:47:38 2021 -0400
 
     Add null to type conversion docs
 ```
+
 19) Nav
