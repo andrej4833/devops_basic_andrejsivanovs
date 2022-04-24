@@ -35,3 +35,19 @@ Date:   Thu Sep 2 14:47:38 2021 -0400
 ```
 
 19) Nav
+
+* Tika izveidots 16.apr, bet atjaunots 20.apr. 
+
+```sh
+$ git log --after="2021-4-20" --before="2021-4-21" --reverse --pretty=fuller
+
+commit f8493bf5cd78bc2a723f5ddc6f6bceb0e08813ea
+Author:     James Bardin <j.bardin@gmail.com>
+AuthorDate: Fri Apr 16 17:11:27 2021 -0400
+Commit:     James Bardin <j.bardin@gmail.com>
+CommitDate: Tue Apr 20 17:04:56 2021 -0400
+
+    update hcl
+
+    update to v2.10.0
+```
